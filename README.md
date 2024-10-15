@@ -2,6 +2,10 @@
 
 <br />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BDF6&width=435&lines=%EC%BD%94%EB%93%9C+%EC%97%85%EB%A1%9C%EB%93%9C%2C+%EB%B8%94%EB%A1%9C%EA%B7%B8+%EC%9E%91%EC%84%B1+%EA%B8%80+%EA%B3%B5%EC%9C%A0" alt="Typing SVG" /></a>
+
+<br />
+
 ### 코드 리뷰 요약
 
 |    주차 (날짜)     | 코드리뷰 |      코드리뷰 요약      |
